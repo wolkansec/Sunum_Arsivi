@@ -1,9 +1,9 @@
-# 🎓 Üniversite Sunum Arşivi
+# 🎓 Üniversite Doküman Arşivi
 
-Bu repo, İstanbul Ticaret Üniversitesi Siber Güvenlik Programı eğitimim süresince hazırladığım bireysel ve grup çalışmalarından oluşan sunumların PDF arşivini içermektedir.
+Bu repo, İstanbul Ticaret Üniversitesinde Siber Güvenlik eğitimim süresince hazırladığım bireysel ve grup çalışmalarından oluşan dokümanların PDF arşivini içermektedir.
 
 ### Katkıda Bulunanlar
-Bazı sunumlar, ekip çalışmasının bir parçası olarak hazırlanmıştır. Bu çalışmalarda emeği geçen arkadaşlarımın isimleri ilgili sunum dosyalarının içinde veya aşağıda belirtilmiştir.
+Bazı sunumlar, ekip çalışmasının bir parçası olarak hazırlanmıştır. Bu çalışmalarda emeği geçen arkadaşlarımın isimleri ve hesapları ilgili sunum dosyalarının içinde veya aşağıdaki tablodaki belirtilmiştir.
 
 ---
 
