@@ -1,4 +1,4 @@
-# 🎓 Üniversite Doküman Arşivi
+# Üniversite Doküman Arşivi
 
 Bu repo, İstanbul Ticaret Üniversitesinde Siber Güvenlik eğitimim süresince hazırladığım bireysel ve grup çalışmalarından oluşan dokümanların PDF arşivini içermektedir.
 
