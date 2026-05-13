@@ -12,8 +12,8 @@ Bazı sunumlar, ekip çalışmasının bir parçası olarak hazırlanmıştır. 
 Yıl | Sunum Konusu | Ders | Tür | Ekip Arkadaşları |
 | :--- | :--- | :--- | :--- | :--- |
 | 2026 | [W3SVC1 Web Server Olay Müdahale Raporu](https://github.com/wolkansec/dokuman_arsivi/blob/main/Sunum_Dosyalar%C4%B1/W3SVC1_Web_Server_Olay_M%C3%BCdahale_Raporu.pdf) | SOME Uygulamaları | Bireysel | - |
-| 2026 | [Pentest Raporu 3]() | Penetrasyon Testi ve Güvenlik Açığı Analizi | Bireysel | - |
-| 2026 | [Pentest Raporu 2](( | Penetrasyon Testi ve Güvenlik Açığı Analizi | Bireysel | - |
+| 2026 | [Born2Root Makinesi Web Penetrasyon Testi Raporu](https://github.com/wolkansec/dokuman_arsivi/blob/main/Sunum_Dosyalar%C4%B1/Born2Root_Makine_Web_Penetrasyon_Testi_Raporu.pdf) | Penetrasyon Testi ve Güvenlik Açığı Analizi | Bireysel | - |
+| 2026 | [Optik Holding Sızma Testi Raporu](https://github.com/wolkansec/dokuman_arsivi/blob/main/Sunum_Dosyalar%C4%B1/Optik_Holding_Penetrasyon_Testi_Raporu.pdf) | Penetrasyon Testi ve Güvenlik Açığı Analizi | Bireysel | - |
 | 2026 | [Yapay Zeka ve Büyük Veri ile Finans: Teknolojiler, Uygulamalar ve Güvenlik Zafiyetleri](https://github.com/wolkansec/dokuman_arsivi/blob/main/Sunum_Dosyalar%C4%B1/Yapay_Zeka_Ozet_ve_Guvenlik_Zafiyetleri.pdf) | Yapay Zeka ve Büyük Veri ile Finans | Bireysel | - |
 | 2026 | [Yapay Zeka ve Finansal Teknolojiler: Geleceği Şekillendiren Güç](https://github.com/wolkansec/dokuman_arsivi/blob/main/Sunum_Dosyalar%C4%B1/Yapay_Zeka_ve_Finansal_Teknolojiler_Gelecegi_Sekillendiren_Guc.pdf) | Yapay Zeka ve Büyük Veri ile Finans | Bireysel | - |
 | 2026 | [Teknova Veri Sistemleri A.Ş. Web Uygulamasi Sızma Testi Raporu](https://github.com/wolkansec/dokuman_arsivi/blob/main/Sunum_Dosyalar%C4%B1/Penetrasyon%20Testi_ve_G%C3%BCvenlik_Ac%C4%B1g%C4%B1_Analizi_Rapor_1.pdf) | Penetrasyon Testi ve Güvenlik Açığı Analizi | Bireysel | - |
